@@ -1,0 +1,13 @@
+c:\users\paulo.munoz\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\paulo.munoz\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\edge\double_edge.js
+c:\users\paulo.munoz\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\edge\edge.js
+c:\users\paulo.munoz\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\edge\x64\node.dll
+c:\users\paulo.munoz\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\edge\x86\node.dll
+c:\users\paulo.munoz\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\edge\x64\edge_nativeclr.node
+c:\users\paulo.munoz\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\edge\x86\edge_nativeclr.node
+c:\users\paulo.munoz\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\paulo.munoz\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\paulo.munoz\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\EdgeJs.dll
+c:\users\paulo.munoz\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\paulo.munoz\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\paulo.munoz\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
